@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Inioluwa Jacob
-- 👀 I’m interested in product designer and software development
-- 🌱 I’m currently learning how to navigate my path in software engineering.
+- 👀 I’m interested in Information Security
+- 🌱 I’m currently learning how to navigate my path in Information Security.
 - 💞️ I’m looking to collaborate on open source project to groom my skillset 
 - 📫 How to reach me kolajoini20@gmail.com
 
